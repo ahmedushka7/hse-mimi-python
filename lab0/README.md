@@ -31,12 +31,12 @@ Git – это удобный инструмент контроля версий
 
 Conda – это удобный инструмент, который включает в себя установку python, настройку окружений и многое другое. Перейдите по [ссылке](https://www.anaconda.com/products/individual), скачайте установщик для своей ОС и установите его (**Важно:** в процессе установки поставить галочку, как на скрине ниже).  После установки, проверьте, что все работает. Для этого зайдите в терминал и убедитесь в двух вещах:
 
-![]()
+![](https://github.com/ahmedushka7/hse-mimi-python/blob/main/lab0/images/conda_add_path.png?raw=true)
 
 1. У вас появился префикс `(base)`.
 2. Введите команду `conda info`, в ответ вы получите информацию о conda, которую вы установили.
 
-![]()
+![](https://github.com/ahmedushka7/hse-mimi-python/blob/main/lab0/images/conda_install.png?raw=true)
 
 ### IDE
 
