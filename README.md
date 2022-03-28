@@ -13,7 +13,7 @@
 ## Семинары
 
 - [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_01.ipynb) про простейшие объекты
-- [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_02.ipynb) про конструкции циклов и условий
+- [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_02.ipynb) про конструкции циклов и условий. Здесь же про списки и строки
 - [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_03.ipynb) про функции 
 - [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_04.ipynb) про изменяемые и неизменяемые объекты
 
