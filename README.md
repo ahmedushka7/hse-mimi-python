@@ -10,13 +10,11 @@
 * дедлайн по 1-6 неделям **31 марта (включительно)**
 * дедлайн по 7-8 неделям
 
----
-
 ## Семинары
 
-- Семинар про простейшие объекты
-- Семинар про конструкции циклов и условий
-- Семинар про функции 
-- Семинар про изменяемые и неизменяемые объекты
+- [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_01.ipynb) про простейшие объекты
+- [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_02.ipynb) про конструкции циклов и условий
+- [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_03.ipynb) про функции 
+- [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_04.ipynb) про изменяемые и неизменяемые объекты
 
 ---
