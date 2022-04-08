@@ -17,5 +17,6 @@
 - [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_03.ipynb) про функции 
 - [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_04.ipynb) про изменяемые и неизменяемые объекты
 - [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_06_OOP.ipynb) про ООП
+- [Тренировочные задания](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/tasks_mimi.ipynb) для кр
 
 ---
