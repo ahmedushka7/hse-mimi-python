@@ -18,5 +18,9 @@
 - [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_04.ipynb) про изменяемые и неизменяемые объекты
 - [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_06_OOP.ipynb) про ООП
 - [Тренировочные задания](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/tasks_mimi.ipynb) для кр
+- [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_numpy_sol.ipynb) про NumPy
+- [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem08_pandas_intro.ipynb) про работу с таблицами в Pandas
+- [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem_09_pandas_advanced.ipynb) про Pandas advanced
+- [Семинар](https://nbviewer.org/github/ahmedushka7/hse-mimi-python/blob/main/seminars/sem11_parsing_full.ipynb) про парсинг
 
 ---
